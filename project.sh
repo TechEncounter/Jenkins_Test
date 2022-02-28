@@ -1,1 +1,1 @@
-echo "This is a 2nd Jenkins test!"
+echo "This is web hook Jenkins test!"
